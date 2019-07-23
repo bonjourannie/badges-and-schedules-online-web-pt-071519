@@ -13,5 +13,5 @@ end
 
 def assign_rooms(speakers) 
   speakers.each_with_index.map do |speaker, room|
-    "Hello #{attendee}! You'll be assigned to room #{index+1}!"
+    "Hello #{attendee}! You'll be assigned to room #{room+1}!"
 end
