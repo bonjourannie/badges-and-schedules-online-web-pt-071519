@@ -13,5 +13,5 @@ end
 
 def assign_rooms(speakers) 
   speakers.each_with_index.map do |speaker, room|
-    
+    "Hello #{attendee} "
 end
