@@ -1,4 +1,6 @@
 # Write your code here.
+require 'pry'
+
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def badge_maker(name)
